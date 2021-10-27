@@ -1,1 +1,2 @@
-# A5
+# binary to decimal
+# dec to binary
